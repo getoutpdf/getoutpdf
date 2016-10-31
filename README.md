@@ -11,7 +11,7 @@ Home page (http://getoutpdf.com)
 
 # Documentation
 
-The complete documentation can be found at: [http://www.maatwebsite.nl/laravel-excel/docs](http://www.maatwebsite.nl/laravel-excel/docs)
+The complete documentation can be found at: [http://www.getoutpdf.com/documentation](http://www.getoutpdf.com/documentation)
 
 # Support
 
