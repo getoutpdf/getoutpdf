@@ -9,7 +9,7 @@ Home page [GetOutPdf](http://getoutpdf.com)
 
 ## 1.1 Converts any file to PDF
 
-- Convert office documents to PDF - [Try it](http://www.getoutpdf.com/converter/dog)
+- Convert office documents to PDF - [Try it](http://www.getoutpdf.com/converter/doc)
   - Features
     * Supported formats: doc, dot, docx, docm, dotx, dotm, docb, xls, xlt, xlm, xlsx, xlsm, xltx, xltm, ppt, pot, pps, pptx, pptm, potx, potm, ppam, ppsx, ppsm, sldx, sldm
     * Encrypts the PDF with password and set permissions to print, copy and modify
