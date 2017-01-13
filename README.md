@@ -40,7 +40,7 @@ Home page [GetOutPdf](http://getoutpdf.com)
     * Set the background color pdf
     * High quality PDF
 
-- Convert URL or web page to PDF [Try it](http://getoutpdf.com/convert-url-to-pdf) / [API](http://getoutpdf.com/api/convert/utl-to-pdf)
+- Convert URL or web page to PDF [Try it](http://getoutpdf.com/convert-url-to-pdf) / [API](http://getoutpdf.com/api/convert/url-to-pdf)
   - Features
     * Convert any url or web page to PDF
     * Encrypts the PDF with password and set permissions to print, copy and modify
